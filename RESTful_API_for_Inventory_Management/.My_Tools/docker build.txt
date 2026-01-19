@@ -1,0 +1,34 @@
+Install requirements:
+----------------------
+pip install requirements
+
+
+Run Docker Manualy: 
+----------------------
+1. docker build -t flask-smorest-api .
+
+2. docker run -dp 5000:5000 -w /app -v "/C/Users/bizmark/Desktop/FINAL_PROJ:/app" flask-smorest-api
+
+
+JTW authentication breakdown:
+-----------------------------
+jtw.io
+
+
+Permision problem:
+---------------------
+Run terminal as admin
+run net stop hns
+run net start hns
+
+
+clear items in db Sqlite3:
+--------------------------
+PRAGMA foreign_keys=OFF;
+SELECT name FROM sqlite_master WHERE type='table';
+DELETE FROM items;
+DELETE FROM alembic_version;
+DELETE FROM items_tags;
+DELETE FROM stores;
+DELETE FROM tags;
+DELETE FROM users;

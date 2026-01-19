@@ -1,0 +1,11 @@
+flask
+flask-dotenv
+python-dotenv
+SQLAlchemy
+Flask-JWT-Extended
+Flask-Smorest
+Flask-SQLAlchemy
+Flask-Migrate
+passlib
+marshmallow
+requests

@@ -6,7 +6,7 @@ Welcome to the Web Application Repository! This repository contains three web ap
 
 ### Project 1: Doctor Appointment Webapp
 - Description: This project is a simple web application for booking doctor appointments.It can be modified to adapt to other forms of appointments as it is dynamic
-- Technologies: HTML, CSS,PHP,SQL,Bootstrap
+- Technologies: HTML, JS, CSS, PHP, SQL, Bootstrap
 - web link: https://spearnjoroge1.free.nf/
 
 ### Project 2: Electronic  E-commerce Webapp
@@ -16,9 +16,13 @@ Welcome to the Web Application Repository! This repository contains three web ap
 
 ### Project 3: Music Instrument  E-commerce Webapp
 - Description: A web application utilizing HTML, CSS, PHP, and SQL for data storage.
-- Technologies: HTML, CSS, PHP, SQL
+- Technologies: HTML, CSS, PHP, MYSQL, Javascript
 - Web Link: https://spearnjoroge.free.nf/
 
+### Project 3: Music Instrument  E-commerce Webapp
+- Description: This versatile RESTful API, built using Flask and Python, offers a secure and user-friendly solution for managing inventory. It caters to a broad range of businesses, handling both physical goods and service-based offerings.
+- Technologies: python, flask, Swagger UI, JWT, NoSQL, Docker, insomnia/Postman
+- Usage: Further instructions on project's README file.
 
 ## Getting Started
 
