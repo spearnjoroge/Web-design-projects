@@ -21,7 +21,7 @@ This versatile RESTful API, built using Flask and Python, offers a secure and us
 ### Steps:
 1. Clone the repository:
 ```Bash
-[RESTful_API_for_Inventory_Management](https://github.com/spearnjoroge/Web-design-projects/edit/main/RESTful_API_for_Inventory_Management)
+[https://github.com/spearnjoroge/Web-design-projects/edit/main/RESTful_API_for_Inventory_Management]
 ```
 2. Create a virtual environment (recommended):
 ```Bash
